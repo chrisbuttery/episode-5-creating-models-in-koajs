@@ -1,0 +1,21 @@
+{
+  "name": "training",
+  "version": "0.1.0",
+  "description": "creating user model",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --harmony"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "co-mocha": "^1.1.0",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "koa": "^0.15.0",
+    "co-bcryptjs": "^0.2.0",
+    "lodash": "^2.4.1",
+    "rethinkdbdash": "^1.15.3"
+  }
+}

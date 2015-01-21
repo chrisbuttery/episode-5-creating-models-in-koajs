@@ -1,5 +1,7 @@
 #[Episode 5 – Creating Models in Koajs](http://knowthen.com/episode-5-creating-models-in-koajs/)
 
+### This code is created from [this screencast](http://knowthen.com/episode-5-creating-models-in-koajs/) from [knowthen.com](http://knowthen.com/ "KnowThen")
+
 In this episode we will learn to **create models** in **koajs**, more **specifically** we’ll create a **user model**.
 
 First we’ll create a _package.json_ file to store our metadata using [npm init](https://docs.npmjs.com/cli/init "npm init").
